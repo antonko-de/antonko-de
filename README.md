@@ -9,4 +9,6 @@ Integrator. I am on my road to become a data engineer. I am passioned about all 
 - 📚 I’m currently learning Python, SQL, ETLs, Cloud Technolgy.
 - 👯 I’m looking for a data engineering internship to ender the proffesional Data world. 
 - 📫 How to reach me: [protonmail](mailto:anton_kostov@protonmail.com)
-mi)
+
+### SELECT * FROM candidate_pool
+### WHERE candidate_name='Anton';
