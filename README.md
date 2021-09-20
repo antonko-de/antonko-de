@@ -6,7 +6,7 @@ I'm currently a working student in the Technical University of Sofia. I am study
 
 - 🔭 I am studing "Automation,information and control technology".
 - 📚 I’m currently learning Python, SQL, ETLs, Cloud Technolgy.
-- 👯 I’m looking for a data engineering internship to enter the proffesional Data world. 
+- 👯 I’m looking for a data engineering internship to enter the professional Data world. 
 - 📫 How to reach me: [mail](mailto:anton_kostov@protonmail.com)
 
 ### SELECT * FROM candidate_pool
