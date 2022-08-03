@@ -2,9 +2,9 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm currently a working student in the Technical University of Sofia. I am studying "Automation,information and control technology" in distant mode.I am a Junior Data Engineer. I am happily following my data engineering journey. I love it so far. This is my [linkedIn](https://www.linkedin.com/in/anton-kostov-807a96136) and there you can find the certifications I have acquired so far.
+I'm currently working as a Data Engineer in DXC Bulgaria.I am also attending distant(<i>online</i>) studies in SoftUni Bulgaria. I am happily following my data engineering journey. I love it so far. This is my [linkedIn](https://www.linkedin.com/in/anton-kostov-807a96136) and there you can find the certifications I have acquired so far.
 
-Here you can find some small projects I did primarily in Python. Also some cool exercises I have been doing.
+Here you can find some small projects I did primarily in Python. in addition to some interesting exercises I have been doing.
 
 I am passioned about all things Data. And yes, Commander Data also 🖖🏻.
 
