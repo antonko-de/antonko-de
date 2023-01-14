@@ -15,6 +15,5 @@ I am passioned about all things Data. And yes, Commander Data also 🖖🏻.
 - 👯 Currently Junior Data Engineer in The Coca Cola Company. 
 - 📫 How to reach me: [mail](mailto:anton_kostov@protonmail.com)
 
-### SELECT * FROM candidate_pool
-### WHERE candidate_name='Anton'
-### AND loves_data = 'YES!!';
+
+I love Data and I love Cola :P.
