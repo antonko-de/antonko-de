@@ -12,8 +12,8 @@ I am passioned about all things Data. And yes, Commander Data also 🖖🏻.
 
 - 🔭 I am studing "Automation,information and control technology".
 - 📚 I’m currently using Python, SQL, ETLs, Cloud Technolgy, Databricks, Azure Platform, Synapse Analytics, Power BI.
-- 👯 Currently Junior Data Engineer in The Coca Cola Company. 
+- 👯 Currently Data Engineer in The Coca Cola Company. 
 - 📫 How to reach me: [mail](mailto:anton_kostov@protonmail.com)
 
 
-I love Data and I love Cola :P.
+I love Data!
