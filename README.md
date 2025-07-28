@@ -80,7 +80,7 @@ When I'm not building AI solutions:
 
 🤖 **Practical AI Solutions** | 💼 **Business-First Approach** | 🚀 **Fast Delivery**
 
-[![AI Engineering](https://img.shields.io/badge/AI-Solutions%20Architect-blue?style=for-the-badge&logo=openai)](mailto:anton_kostov@protonmail.com)
+[![AI Expert](https://img.shields.io/badge/AI-Expert-purple?style=for-the-badge&logo=brain)](mailto:anton_kostov@protonmail.com)
 [![Custom Development](https://img.shields.io/badge/Custom-Development-green?style=for-the-badge&logo=python)](mailto:anton_kostov@protonmail.com)
 [![Small Business](https://img.shields.io/badge/Small%20Business-Specialist-orange?style=for-the-badge&logo=handshake)](mailto:anton_kostov@protonmail.com)
 
