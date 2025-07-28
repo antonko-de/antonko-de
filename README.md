@@ -45,17 +45,6 @@
 
 ---
 
-## 🛠️ **What I Can Build for Your Business**
-
-<div align="center">
-
-| **AI Solution Type** | **Perfect For** | **Typical Timeline** |
-|---------------------|----------------|---------------------|
-| 🤖 **Customer Service Bots** | E-commerce, SaaS, Local Services | 2-4 weeks |
-| 📧 **Email Automation Agents** | Sales Teams, Support Desks | 3-5 weeks |
-| 📊 **Data Analysis Assistants** | Financial Services, Analytics | 4-6 weeks |
-| 🎯 **Lead Qualification Systems** | Real Estate, B2B Sales | 2-3 weeks |
-| 📝 **Content Generation Agents** | Marketing Agencies, Bloggers | 1-3 weeks |
 
 
 **Email**: [anton_kostov@protonmail.com](mailto:anton_kostov@protonmail.com)  
@@ -76,14 +65,11 @@ When I'm not building AI solutions:
 
 <div align="center">
 
-### *"Small businesses deserve enterprise-level AI, at startup prices."*
-
 🤖 **Practical AI Solutions** | 💼 **Business-First Approach** | 🚀 **Fast Delivery**
 
 [![AI Expert](https://img.shields.io/badge/AI-Expert-purple?style=for-the-badge&logo=brain)](mailto:anton_kostov@protonmail.com)
 [![Custom Development](https://img.shields.io/badge/Custom-Development-green?style=for-the-badge&logo=python)](mailto:anton_kostov@protonmail.com)
 [![Small Business](https://img.shields.io/badge/Small%20Business-Specialist-orange?style=for-the-badge&logo=handshake)](mailto:anton_kostov@protonmail.com)
 
-**Ready to automate your business with AI? Let's build something amazing together! 🚀**
 
 </div>
