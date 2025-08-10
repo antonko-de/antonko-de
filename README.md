@@ -5,7 +5,7 @@
 
 ## 🚀 Custom Agentic AI Solutions for Small Business
 
-**Anton Kostov** | Data and Agentic Ai Engineer aiming to become an AI solutions architect
+**Anton Kostov** | Data and Agentic AI Engineer aiming to become an AI solutions architect
 
 
 ### 💼 Why Choose Me for Your AI Project?
